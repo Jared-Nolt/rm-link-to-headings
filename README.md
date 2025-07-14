@@ -1,5 +1,5 @@
 # RM-Link-to-Headings
-Displays a list of heading links with a shortcode. The link scrolls to that specific header on the page. ACF repeater field needed. Build to posts.
+Displays a list of heading links that scroll to that specific header on the page. ACF repeater field with machine name (link_to_headings) and acf subfield as plain text with machine name (blog_page_headings). The heading links are shown with a shortcode.
 
 ACF Field Setup Instructions:
 For this plugin to work, you need to set up your ACF fields correctly.
